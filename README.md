@@ -95,3 +95,11 @@ PrincekinKlineFrame
 # 许可
 
 PrincekinKlineFrame 是在Apache License 2.0协议下开发完成的. 关于细节请查看[Apache License 2.0协议](https://github.com/iOSPrincekin/PrincekinKlineFrame/blob/master/LICENSE)。
+
+
+使用scrollView的K线 用线程来控制优化
+    
+    
+    
+    
+    
